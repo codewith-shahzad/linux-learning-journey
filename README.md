@@ -17,27 +17,28 @@ This repository documents my complete roadmap toward becoming a Cloud Engineer a
 
 ---
 
-## 📚 Learning Progress
+## 📊 Learning Progress
 
 | Module | Status |
-|---------|--------|
-| Linux Fundamentals | Completed |
-| Linux File System | Completed |
-| File Management | Completed |
-| Wildcards & Redirection | Completed |
-| Linux Permissions | ⏳Next |
-| Process Management | 🔒 Locked |
+|---|---|
+| Linux Fundamentals | ✅ Completed |
+| Linux File System | ✅ Completed |
+| File Management | ✅ Completed |
+| Wildcards & Redirection | ✅ Completed |
+| Linux Permissions | ✅ Completed |
+| Users & Groups | ✅ Completed |
+| Process Management | ✅ Completed |
+| File Systems & Storage | ✅ Completed |
+| Package Management | ⏳ Next |
 | Shell Scripting | 🔒 Locked |
 | Networking | 🔒 Locked |
 | SSH | 🔒 Locked |
-| Storage | 🔒 Locked |
 
 ---
 
-## 🛠 Projects
+## 🛠️ Projects
 
 Projects will be added as I progress.
-
 ---
 
 ## 👨‍💻 Author
